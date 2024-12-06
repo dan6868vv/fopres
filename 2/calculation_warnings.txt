@@ -1,0 +1,7 @@
+2024-Dec-01 22:42:02
+Computer name:	DESKTOP-CPAF6M3
+Number of cores used in calculation:	12
+Configuration name:	По умолчанию
+Project name:	Герметичный корпус с внутренним перемешиванием
+
+Warnings on last iteration: 

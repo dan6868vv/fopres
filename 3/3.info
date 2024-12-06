@@ -1,0 +1,52 @@
+Model: Сборка2.SLDASM
+Project name: Герметичный корпус с наружным обдувом
+Config name: По умолчанию
+Project path: C:\Users\Пользователь\Desktop\FOPRES\3\3.xmlconfig
+Status: Calculating
+
+Number of cells:
+    Total cells: 65170
+    Fluid cells: 40297
+    Solid cells: 24873
+    Fluid cells containing solids: 14560
+
+
+Geometry preparation finished: 
+Geometry preparation time: 00:00:00
+Solver CPU time: 00:00:52
+Iterations: 77
+Travels: 1.12297
+Physical time: 0.000000e+00 s
+Current time step: 0.000000e+00 s
+Last iteration finished: 
+CPU time per last iteration: 00:00:00
+CPU time left: 00:00:00
+Iterations per 1 travel: 69
+
+Goals
+    Name | Unit (SI) | Value           | Progress  | Critetia        | Delta           | Use in convergence
+
+Project details
+    Default fluids: 
+    Analysis type: Internal
+    Heat conduction in solids: On
+    Radiation: Off
+    Time dependent: Off
+    Gravitational effects: On
+    Flow type: Laminar and turbulent
+    Cavitation: Off
+    Hign Mach number flow: On
+    Free surface: Off
+    Structural: Off
+    Electromagnetism: Off
+
+System info
+    Product: Flow Simulation 2023  x64 / 6002 / SOLVER ver. efd_dev.5608_04.02.2022+HMN_Inlet_Rework_V1+HMN_Inlet_Rework_V2
+    CAD version: SOLIDWORKS 2023 SP3.0
+    Computer name: DESKTOP-CPAF6M3
+    User name: Пользователь
+    Operating system: Windows 10 (Version 10.0.19045)
+    Processors: AMD Ryzen 5 5500U with Radeon Graphics         
+    Number of cores: 12
+    Memory: 5885 MB / 15707 MB
+

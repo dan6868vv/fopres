@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<version>1</version>
+	<name>Герметичный корпус</name>
+	<uuid>d650d3cb-3fff-437f-8f5b-f9567bd50bf4</uuid>
+	<directory>prj2</directory>
+	<vwr_res_files_dir>1</vwr_res_files_dir>
+	<geom_db_uuid>b06e891f-e8c7-4254-b466-d32d3f6468fa</geom_db_uuid>
+	<gdb_light_uuid>d9284634-fe8d-4e94-b0f6-90daf28e94b3</gdb_light_uuid>
+	<model_geom_uuid>8d0f1e62-a86d-4096-9f31-4cd93ddd1654</model_geom_uuid>
+	<template_id/>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<version>1</version>
+	<name>Герметичный корпус с внутренним перемешиванием</name>
+	<uuid>e68ab2d3-9e10-47b7-be7a-44f05d189327</uuid>
+	<directory>prj1</directory>
+	<vwr_res_files_dir>2</vwr_res_files_dir>
+	<geom_db_uuid>b06e891f-e8c7-4254-b466-d32d3f6468fa</geom_db_uuid>
+	<gdb_light_uuid>d9284634-fe8d-4e94-b0f6-90daf28e94b3</gdb_light_uuid>
+	<model_geom_uuid>b770a590-0007-4ead-83ad-18b07f136d84</model_geom_uuid>
+	<template_id/>
+</project>

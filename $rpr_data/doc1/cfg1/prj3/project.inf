@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<version>1</version>
+	<name>Герметичный корпус с наружным обдувом</name>
+	<uuid>fd71a54b-0260-439c-a027-55d8330bb01a</uuid>
+	<directory>prj3</directory>
+	<vwr_res_files_dir>3</vwr_res_files_dir>
+	<geom_db_uuid>b06e891f-e8c7-4254-b466-d32d3f6468fa</geom_db_uuid>
+	<gdb_light_uuid>d9284634-fe8d-4e94-b0f6-90daf28e94b3</gdb_light_uuid>
+	<model_geom_uuid>1f62faac-1be9-4d5d-a2d5-32f4cba88ac6</model_geom_uuid>
+	<template_id/>
+</project>

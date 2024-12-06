@@ -1,0 +1,53 @@
+{
+    "version": 0,
+    "model_name": "Сборка2.SLDASM",
+    "project_name": "Герметичный корпус с наружным обдувом",
+    "config_name": "По умолчанию",
+    "project_path": "C:\\Users\\Пользователь\\Desktop\\FOPRES\\3\\3.xmlconfig",
+    "finished": false,
+    "mesh": {
+        "cells_total": 65170,
+        "cells_fluid": 40297,
+        "cells_solid": 24873,
+        "cells_fluid_containing_solid": 14560
+    },
+    "telemetry": {
+        "prepare_geometry_finished": null,
+        "prepare_geometry_total_time": 0,
+        "cpu_time_solver_total": 52,
+        "iteration": 77,
+        "travel": 1.1229743224268358,
+        "phys_time": 0.0,
+        "time_step": 0.0,
+        "last_iteration_finished": null,
+        "cpu_time_per_last_iter": 0,
+        "cpu_time_left": -1,
+        "iterations_per_travel": 69
+    },
+    "goals": [],
+    "settings": {
+        "default_fluids": [],
+        "analysis_type": "internal",
+        "heat_conduction_in_solids": true,
+        "radiation": false,
+        "time_dependent": false,
+        "gravity": true,
+        "flow_type": "laminar and turbulent",
+        "cavitation": false,
+        "high_mach_number": true,
+        "free_surface": false,
+        "structural": false,
+        "electromagnetism": false
+    },
+    "system_info": {
+        "product_name": "Flow Simulation 2023  x64 / 6002 / SOLVER ver. efd_dev.5608_04.02.2022+HMN_Inlet_Rework_V1+HMN_Inlet_Rework_V2",
+        "cad_version": "SOLIDWORKS 2023 SP3.0",
+        "computer_name": "DESKTOP-CPAF6M3",
+        "user_name": "Пользователь",
+        "os": "Windows 10 (Version 10.0.19045)",
+        "cpu": "AMD Ryzen 5 5500U with Radeon Graphics         ",
+        "number_of_cores": 12,
+        "memory_avail": 5885,
+        "memory_total": 15707
+    }
+}
